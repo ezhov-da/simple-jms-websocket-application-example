@@ -9,6 +9,7 @@
                                            charset=UTF-8">
         <title>JMS пример</title>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js" type="text/javascript"></script>
+        <script src="websocket.js" type="text/javascript"></script>
         <script>
            function sendMessages() {
                 $.ajax({
